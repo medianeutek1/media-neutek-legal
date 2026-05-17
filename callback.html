@@ -1,5 +1,11 @@
+<!DOCTYPE html>
 <html>
+<head><title>TikTok Authorization</title></head>
 <body>
-<h1>Authorization successful! You can close this window.</h1>
+<h1>Redirecting...</h1>
+<script>
+    const params = window.location.search;
+    window.location.href = "http://localhost:8890" + params;
+</script>
 </body>
 </html>
