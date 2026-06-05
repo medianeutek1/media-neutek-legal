@@ -1,4 +1,4 @@
-<h1>Terms and Conditions</h1>
+<h1>Media Neutek Terms of Service</h1>
 <p>Last updated: May 18, 2026</p>
 <p>Please read these terms and conditions carefully before using Our Service.</p>
 <h2>Interpretation and Definitions</h2>
