@@ -1,5 +1,5 @@
 <h1>Privacy Policy</h1>
-<p>Last updated: May 18, 2026</p>
+<p>Last updated: June 5, 2026</p>
 <p>This Privacy Policy describes Our policies and procedures on the collection, use and disclosure of Your information when You use the Service and tells You about Your privacy rights and how the law protects You.</p>
 <p>We use Your Personal Data to provide and improve the Service. By using the Service, You agree to the collection and use of information in accordance with this Privacy Policy. This Privacy Policy has been created with the help of the <a href="https://www.termsfeed.com/privacy-policy-generator/" target="_blank">Privacy Policy Generator</a>.</p>
 <h2>Interpretation and Definitions</h2>
@@ -193,6 +193,16 @@
 <p>We may update Our Privacy Policy from time to time. We will notify You of any changes by posting the new Privacy Policy on this page.</p>
 <p>We will let You know via email and/or a prominent notice on Our Service, prior to the change becoming effective and update the &quot;Last updated&quot; date at the top of this Privacy Policy.</p>
 <p>You are advised to review this Privacy Policy periodically for any changes. Changes to this Privacy Policy are effective when they are posted on this page.</p>
+<h2>YouTube API Services</h2>
+<p>MediaNeutek Publisher uses YouTube API Services to upload and manage video content on YouTube. By using our Service, you also agree to be bound by the <a href="https://www.youtube.com/t/terms" target="_blank">YouTube Terms of Service</a>.</p>
+<p>Our use of YouTube API Services is governed by Google's Privacy Policy, available at <a href="https://policies.google.com/privacy" target="_blank">https://policies.google.com/privacy</a>.</p>
+<h3>Data Collected via YouTube API</h3>
+<p>When you authorize our application to access your YouTube account via OAuth 2.0, we store an access token solely for the purpose of uploading and managing video content on your behalf. We do not share this token with any third parties. The token is stored locally on your device and is never transmitted to our servers.</p>
+<h3>Revoking API Access</h3>
+<p>You can revoke our application's access to your YouTube account at any time by visiting your <a href="https://security.google.com/settings/security/permissions" target="_blank">Google Account Security Settings</a> and removing MediaNeutek Publisher from the list of connected applications. Upon revocation, we will delete any stored tokens associated with your account.</p>
+<h3>Data Deletion</h3>
+<p>To request deletion of any data collected through YouTube API Services, please contact us at medianeutek1@gmail.com. We will process your request within 30 days.</p>
+
 <h2>Contact Us</h2>
 <p>If you have any questions about this Privacy Policy, You can contact us:</p>
 <ul>
