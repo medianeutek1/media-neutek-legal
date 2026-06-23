@@ -1,4 +1,4 @@
-<h1>Media Neutek Terms of Service</h1>
+<h1>Shorts AI Terms of Service</h1>
 <p>Last updated: May 18, 2026</p>
 <p>Please read these terms and conditions carefully before using Our Service.</p>
 <h2>Interpretation and Definitions</h2>
@@ -20,7 +20,7 @@
 <p><strong>Country</strong> refers to: Nordrhein-Westfalen,  Germany</p>
 </li>
 <li>
-<p><strong>Company</strong> (referred to as either &quot;the Company&quot;, &quot;We&quot;, &quot;Us&quot; or &quot;Our&quot; in these Terms and Conditions) refers to Media NeuTek.</p>
+<p><strong>Company</strong> (referred to as either &quot;the Company&quot;, &quot;We&quot;, &quot;Us&quot; or &quot;Our&quot; in these Terms and Conditions) refers to Shorts AI.</p>
 </li>
 <li>
 <p><strong>Device</strong> means any device that can access the Service such as a computer, a cell phone or a digital tablet.</p>
@@ -35,7 +35,7 @@
 <p><strong>Third-Party Social Media Service</strong> means any services or content (including data, information, products or services) provided by a third party that is displayed, included, made available, or linked to through the Service.</p>
 </li>
 <li>
-<p><strong>Website</strong> refers to Media NeuTek, accessible from <a href="https://medianeutek1.github.io/media-neutek-legal/" rel="external nofollow noopener" target="_blank">https://medianeutek1.github.io/media-neutek-legal/</a></p>
+<p><strong>Website</strong> refers to Shorts AI, accessible from <a href="https://medianeutek1.github.io/media-neutek-legal/" rel="external nofollow noopener" target="_blank">https://medianeutek1.github.io/media-neutek-legal/</a></p>
 </li>
 <li>
 <p><strong>You</strong> means the individual accessing or using the Service, or the company, or other legal entity on behalf of which such individual is accessing or using the Service, as applicable.</p>
@@ -87,5 +87,5 @@ You agree that the original English text shall prevail in the case of a dispute.
 <h2>Contact Us</h2>
 <p>If you have any questions about these Terms and Conditions, You can contact us:</p>
 <ul>
-<li>By email: medianeutek1@gmail.com</li>
+<li>By email: shortsai@gmail.com</li>
 </ul>
