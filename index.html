@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Viralify — AI Video Publishing</title>
+    <title>ShortsAI — Short-Form Video Studio</title>
     <style>
         *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
 
@@ -83,41 +83,6 @@
             transition: background 0.2s;
         }
         .hero-cta:hover { background: #e8404e; }
-
-        /* WAITLIST FORM */
-        .waitlist-form {
-            display: flex;
-            gap: 10px;
-            justify-content: center;
-            flex-wrap: wrap;
-            margin-top: 8px;
-        }
-        .waitlist-form input[type="email"] {
-            padding: 14px 20px;
-            border-radius: 8px;
-            border: 1px solid #333;
-            background: #1a1a1a;
-            color: #fff;
-            font-size: 1rem;
-            width: 280px;
-            outline: none;
-            transition: border-color 0.2s;
-        }
-        .waitlist-form input[type="email"]:focus { border-color: #ff4757; }
-        .waitlist-form input[type="email"]::placeholder { color: #555; }
-        .waitlist-form button {
-            background: #ff4757;
-            color: #fff;
-            padding: 14px 28px;
-            border-radius: 8px;
-            border: none;
-            font-weight: 600;
-            font-size: 1rem;
-            cursor: pointer;
-            transition: background 0.2s;
-        }
-        .waitlist-form button:hover { background: #e8404e; }
-        .waitlist-note { color: #444; font-size: 0.8rem; margin-top: 12px; }
 
         /* PLATFORMS */
         .platforms {
@@ -314,7 +279,7 @@
 
 <!-- NAV -->
 <nav>
-    <div class="nav-logo">Viral<span>ify</span></div>
+    <div class="nav-logo">Shorts<span>AI</span></div>
     <div class="nav-links">
         <a href="#how-it-works">How it works</a>
         <a href="#tiktok">TikTok</a>
@@ -325,14 +290,10 @@
 
 <!-- HERO -->
 <div class="hero">
-    <div class="hero-badge">AI Video Publishing</div>
-    <h1>Type a topic.<br><span>Go viral everywhere.</span></h1>
-    <p>Viralify generates your script, adds a voiceover, assembles the video, and publishes it to TikTok, YouTube, Instagram, Facebook, and Dailymotion — automatically.</p>
-    <form class="waitlist-form" action="https://formspree.io/f/xqevqaoy" method="POST">
-        <input type="email" name="email" placeholder="Enter your email" required>
-        <button type="submit">Join Waitlist</button>
-    </form>
-    <p class="waitlist-note">Free early access. No spam.</p>
+    <div class="hero-badge">Short-Form Video Studio</div>
+    <h1>Create and publish<br><span>short videos with AI</span></h1>
+    <p>ShortsAI is a content creation and distribution tool. Enter a topic, generate a script with AI, add a voiceover, and publish your video directly to TikTok, YouTube, Instagram, Facebook, and Dailymotion.</p>
+    <a href="mailto:shortsai@gmail.com" class="hero-cta">Get in Touch</a>
 </div>
 
 <!-- PLATFORM BADGES — official brand logos per each platform's branding guidelines -->
@@ -368,7 +329,7 @@
 <section>
     <div class="section-label">What we do</div>
     <h2>Everything a creator needs</h2>
-    <p>From AI script generation to publishing, Viralify handles the full lifecycle of short-form video content.</p>
+    <p>From AI script generation to publishing, ShortsAI handles the full lifecycle of short-form video content.</p>
     <div class="features-grid">
         <div class="feature-card">
             <div class="feature-icon">🎬</div>
@@ -407,7 +368,7 @@
 <div style="background:#111; border-top:1px solid #1e1e1e; border-bottom:1px solid #1e1e1e;" id="how-it-works">
     <section>
         <div class="section-label">Process</div>
-        <h2>How Viralify works</h2>
+        <h2>How ShortsAI works</h2>
         <p>A simple end-to-end workflow from content sourcing to live publication.</p>
         <div class="steps">
             <div class="step">
@@ -423,7 +384,7 @@
             <div class="step">
                 <div class="step-num">03</div>
                 <h3>Authenticate</h3>
-                <p>Users authorise Viralify via each platform's official OAuth / Login Kit flow.</p>
+                <p>Users authorise ShortsAI via each platform's official OAuth / Login Kit flow.</p>
             </div>
             <div class="step">
                 <div class="step-num">04</div>
@@ -443,7 +404,7 @@
                 TikTok Integration
             </div>
             <h2>Direct publishing to TikTok</h2>
-            <p style="color:#666; margin-top:12px; font-size:0.95rem;">Viralify integrates with TikTok via the official Content Posting API and Login Kit. Users connect their TikTok account through TikTok's OAuth flow, and videos are published directly to their profile.</p>
+            <p style="color:#666; margin-top:12px; font-size:0.95rem;">ShortsAI integrates with TikTok via the official Content Posting API and Login Kit. Users connect their TikTok account through TikTok's OAuth flow, and videos are published directly to their profile.</p>
             <ul class="tiktok-list">
                 <li>Users log in via TikTok Login Kit — no passwords stored</li>
                 <li>Videos posted directly to the user's TikTok profile using <code>video.publish</code></li>
@@ -461,7 +422,7 @@
                 <span>1.</span> User clicks "Connect TikTok"<br>
                 <span>2.</span> Redirected to TikTok OAuth consent screen<br>
                 <span>3.</span> User approves permissions<br>
-                <span>4.</span> Viralify receives access token<br>
+                <span>4.</span> ShortsAI receives access token<br>
                 <span>5.</span> Video uploaded via Content Posting API<br>
                 <span>6.</span> Post published to user's TikTok profile
             </div>
@@ -471,13 +432,13 @@
 
 <!-- FOOTER -->
 <footer>
-    <div class="footer-logo">Viral<span>ify</span></div>
+    <div class="footer-logo">Shorts<span>AI</span></div>
     <div class="footer-links">
         <a href="/media-neutek-legal/terms">Terms of Service</a>
         <a href="/media-neutek-legal/privacy">Privacy Policy</a>
-        <a href="mailto:viralify@gmail.com">Contact</a>
+        <a href="mailto:shortsai@gmail.com">Contact</a>
     </div>
-    <p>© 2026 Viralify. All rights reserved.</p>
+    <p>© 2026 Shorts AI. All rights reserved.</p>
 </footer>
 
 </body>
